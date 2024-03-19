@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jyoA/static/css/main.ea1aff0e.css",
+    "main.js": "/jyoA/static/js/main.bc3ebda3.js",
+    "index.html": "/jyoA/index.html",
+    "main.ea1aff0e.css.map": "/jyoA/static/css/main.ea1aff0e.css.map",
+    "main.bc3ebda3.js.map": "/jyoA/static/js/main.bc3ebda3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1aff0e.css",
+    "static/js/main.bc3ebda3.js"
+  ]
+}
